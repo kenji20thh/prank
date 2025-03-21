@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Handle Yes button click
     yesButton.addEventListener('click', function() {
-        alert('Great choice! We are now friends! 😊');
+        alert('ok sifit hna 0706849237 ');
     });
     
     // Initial position for the No button
